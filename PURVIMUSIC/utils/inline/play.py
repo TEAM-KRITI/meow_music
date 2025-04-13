@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         #],
          [
              InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/KRITI_UPDATE"),
-             InlineKeyboardButton(text="๏ ᴧᴅᴅ ϻє ๏", url=f"https://t.me/{app.username}?startgroup=true"),
+             
              InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/TEAM_BADNAM_BOTS")
          ],
         [
@@ -90,7 +90,7 @@ def stream_markup(_, chat_id):
          #],
         [
              InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/KRITI_UPDATE"),
-             InlineKeyboardButton(text="๏ ᴧᴅᴅ ϻє ๏", url=f"https://t.me/{app.username}?startgroup=true"),
+             
              InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/TEAM_BADNAM_BOTS")
          ],
         [
